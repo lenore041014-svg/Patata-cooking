@@ -1,0 +1,15 @@
+[
+    {"id":1,
+     "category":"chinese",
+     
+     "name_cn":"辣椒炒肉",
+     "name_it":"Maiale saltato in padella con peperoni piccanti",
+     
+     "image":"images/la-jiao-chao-rou.jpeg",
+     
+     "ingredients":["大块螺丝椒","蒜末","豆瓣酱","小片五花肉","生抽","玉米淀粉","蚝油","油"],
+     "steps":["1.五花肉片加 玉米淀粉 生抽 蚝油 油抓拌均匀备用。","2. 锅里放少油（有猪油更好），炒螺丝椒制虎皮状。","3. 加一勺油，小火蒜末豆瓣酱少许炒香。","4. 加入五花肉，再加少量生抽提鲜。","5. 大火翻炒出锅。"],
+     "tips":["1. 五花肉片要切薄切小。","2. 容易做太咸了，放豆瓣酱的时候要小心。"],
+     "favourite":false
+    }
+]

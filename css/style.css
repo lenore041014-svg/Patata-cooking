@@ -1,0 +1,32 @@
+body{
+    background-color: #FFF8F0;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+    color: #5A3E2B;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: #5A3E2B;
+}
+.recipe-card{
+    background-color: white;
+    width: 500px;
+    padding:20px;
+    border-radius:15px;
+    box-shadow: 0 0 10px lightgray;
+    margin:30px auto;
+}
+.recipe-card img{
+    width:40%;
+}   
+.recipe-info{
+    width:60%;
+}
+a{  font-size: 24px;
+    color: #5A3E2B;
+    
+}
