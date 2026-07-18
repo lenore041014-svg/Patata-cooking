@@ -7,9 +7,9 @@
      
      "image":"images/la-jiao-chao-rou.jpeg",
      
-     "ingredients":["大块螺丝椒","蒜末","豆瓣酱","小片五花肉","生抽","玉米淀粉","蚝油","油"],
-     "steps":["1.五花肉片加 玉米淀粉 生抽 蚝油 油抓拌均匀备用。","2. 锅里放少油（有猪油更好），炒螺丝椒制虎皮状。","3. 加一勺油，小火蒜末豆瓣酱少许炒香。","4. 加入五花肉，再加少量生抽提鲜。","5. 大火翻炒出锅。"],
-     "tips":["1. 五花肉片要切薄切小。","2. 容易做太咸了，放豆瓣酱的时候要小心。"],
+     "ingredients":["大块螺丝椒Peperoni verdi a pezzi grandi","蒜末Aglio tritato","豆瓣酱Pasta di fave e peperoncino fermentata","小片五花肉Pancetta di maiale tagliata a fettine sottili","生抽Salsa di soia chiara","玉米淀粉Amido di mais","蚝油Salsa di ostriche","油Olio"],
+     "steps":["1.五花肉片加 玉米淀粉 生抽 蚝油 油抓拌均匀备用。","Condire le fettine di pancetta di maiale con amido di mais, salsa di soia chiara, salsa di ostriche e un po’ di olio. Mescolare bene e lasciare da parte.","2. 锅里放少油（有猪油更好），炒螺丝椒制虎皮状。","Scaldare una padella con poco olio.Saltare i peperoni verdi cinesi fino a quando la buccia diventa leggermente bruciacchiata e con effetto “tigre”","3. 加一勺油，小火蒜末豆瓣酱少许炒香。","Aggiungere un cucchiaio di olio. A fuoco basso, soffriggere l’aglio tritato e una piccola quantità di doubanjiang fino a sprigionare il profumo.","4. 加入五花肉，再加少量生抽提鲜。","Aggiungere la pancetta di maiale e saltare il tutto. Aggiungere un po’ di salsa di soia chiara per esaltare il sapore.","5. 大火翻炒出锅。","Cuocere a fuoco alto mescolando rapidamente, poi servire."],
+     "tips":["1. 五花肉片要切薄切小。","Tagliare la pancetta di maiale a fettine sottili e di piccole dimensioni.","2. 容易做太咸了，放豆瓣酱的时候要小心。","È facile che il piatto risulti troppo salato, quindi prestare attenzione alla quantità di doubanjiang (pasta di fave e peperoncino fermentata) utilizzata."],
      "favourite":false
     },
 
@@ -21,9 +21,9 @@
      
      "image":"images/suan-la-hai-rong.jpeg",
      
-     "ingredients":["海茸","冰水","蒜蓉（蒜片）","辣椒段（绿色或红色都可）","蒸鱼豉油","一品鲜","陈醋","白糖","蚝油","辣椒粉","藤椒油","食用油","少量五香粉"],
-     "steps":["1.蒜、辣椒粉、少量五香粉热油爆香。","2. 沸水下海松茸，煮熟后立刻过冰水，变凉后捞起沥干。","3. 将爆香的辣椒油、辣椒段和所有调料混合，并与海松茸抓拌均匀"],
-     "tips":["1. 五香粉不要太多。","2. 海松茸一定要过冰水确保完全冷却。"],
+     "ingredients":["海茸Alghe marine","冰水Acqua ghiacciata","蒜蓉（蒜片）Aglio tritato (oppure aglio a fettine)","辣椒段（绿色或红色都可）Peperoncino fresco a pezzi (verde o rosso)","蒸鱼豉油Salsa di soia aromatizzata per pesce al vapore","一品鲜Salsa di soia fresca tipo Yipinxian","陈醋Aceto di riso","白糖Zucchero","蚝油Salsa di ostriche","辣椒粉Peperoncino in polvere","藤椒油Olio di Sichuan Peperoncino","食用油Olio","少量五香粉Polvere di spezie (in quantità ridotta)"],
+     "steps":["1.蒜、辣椒粉、少量五香粉热油爆香。","Scaldare l’olio caldo con l’aglio, il peperoncino in polvere e una piccola quantità di miscela cinque spezie cinesi, fino a sprigionare il profumo degli aromi.","2. 沸水下海松茸，煮熟后立刻过冰水，变凉后捞起沥干。","Cuocere le alghe marine cinesi in acqua bollente. Una volta cotte, trasferirle subito in acqua ghiacciata per raffreddarle. Scolarle bene quando saranno fredde.","3. 将爆香的辣椒油、辣椒段和所有调料混合，并与海松茸抓拌均匀","Mescolare l’olio aromatizzato al peperoncino, i peperoncini freschi a pezzi e tutti gli altri condimenti, quindi unirli alle alghe marine e amalgamare bene con le mani."],
+     "tips":["1. 五香粉不要太多。","Non aggiungere troppo miscela cinque spezie cinesi in polvere, perché il suo aroma è molto intenso.","2. 海松茸一定要过冰水确保完全冷却。","È importante immergere le alghe marine cinesi in acqua ghiacciata per assicurarsi che siano completamente raffreddate."],
      "favourite":false
     },
 
@@ -35,11 +35,129 @@
      
      "image":"images/ji-si-liang-mian.jpeg",
      
-     "ingredients":["鸡胸肉","面条","蔬菜（黄瓜、花生等，按喜好随意搭配）","花椒）","蒜蓉","辣椒粉","生抽","白糖","蚝油","陈醋","藤椒油","食用油","老抽","鸡精","麻酱","料酒"],
-     "steps":["1.鸡胸肉加花椒料酒清水煮熟后放凉。","2.蒜、辣椒粉热油爆香 。","3. 面条煮熟后过凉水沥干。","4. 将鸡胸肉撕成丝，加入面条和蔬菜。","5. 加入调料辣椒油、一勺生抽、一勺蚝油、两勺陈醋、一勺老抽、半勺白糖、半勺鸡精和适量麻酱藤椒油抓拌均匀即可。"],
-     "tips":["1. 鸡胸肉不要太多。","2. 麻酱和藤椒油不要加太多会太腻。"],
+     "ingredients":["鸡胸肉Petto di pollo","面条Noodles","蔬菜（黄瓜、花生等，按喜好随意搭配）Verdure a piacere","花椒Pepe di Sichuan","蒜蓉Aglio tritato","辣椒粉Peperoncino in polvere","生抽Salsa di soia","白糖Zucchero","蚝油Salsa di ostriche","陈醋Aceto di riso","藤椒油Olio di Sichuan Peperoncino","食用油Olio","老抽Salsa di soia scura","鸡精Condimento per pollo","麻酱Salsa di sesamo","料酒Vino da cucina"],
+     "steps":["1.鸡胸肉加花椒料酒清水煮熟后放凉。","Cuocere il petto di pollo con pepe di Sichuan, vino da cucina cinese e acqua, poi lasciarlo raffreddare.","2.蒜、辣椒粉热油爆香 。","Soffriggere l’aglio e il peperoncino in polvere con olio caldo.","3. 面条煮熟后过凉水沥干。","Cuocere i noodles, sciacquarli con acqua fredda e scolarli.","4. 将鸡胸肉撕成丝，加入面条和蔬菜。","Sfilacciare il pollo e unirlo ai noodles e alle verdure.","5. 加入调料辣椒油、一勺生抽、一勺蚝油、两勺陈醋、一勺老抽、半勺白糖、半勺鸡精和适量麻酱藤椒油抓拌均匀即可。","Aggiungere l’olio al peperoncino, la salsa di soia, la salsa di ostriche, l’aceto nero, la salsa di soia scura, lo zucchero, il dado di pollo, la pasta di sesamo e l’olio al pepe di Sichuan. Mescolare bene e servire."],
+     "tips":["1. 鸡胸肉不要太多。","Non usare troppo petto di pollo.","2. 麻酱和藤椒油不要加太多会太腻。","Non aggiungere troppo pasta di sesamo e olio al pepe di Sichuan verde, altrimenti il piatto risulterà troppo pesante."],
      "favourite":false
+    },
+    {"id":4,
+     "category":"italian",
+     
+     "name_cn":"意大利肉丸",
+     "name_it":"Polpette al sugo",
+     
+
+     "image":"images/Polpette-al-sugo.jpeg",
+     
+     "ingredients":["牛肉末 Macinato di manzo","猪肉末 Macinato di maiale","鸡蛋 Uovo","面包糠 Pangrattato","帕玛森奶酪 Parmigiano Reggiano","欧芹 Prezzemolo","大蒜 Aglio","盐 Sale","黑胡椒 Pepe nero","橄榄油 Olio d'oliva","洋葱 Cipolla","番茄碎 Passata di pomodoro","罗勒 Basilico"],
+     "steps":["将牛肉末和猪肉末放入大碗中 Mescolare il macinato di manzo e quello di maiale in una ciotola","加入鸡蛋、面包糠、帕玛森奶酪、欧芹、大蒜、盐和黑胡椒，搅拌均匀 Aggiungere uovo, pangrattato, Parmigiano Reggiano, prezzemolo, aglio, sale e pepe nero e amalgamare bene","将肉馅搓成大小均匀的肉丸 Formare delle polpette della stessa dimensione","平底锅加入橄榄油，将肉丸煎至表面金黄 Rosolare le polpette in olio d'oliva fino a doratura","另起锅炒香洋葱，加入番茄碎，小火煮10分钟 Soffriggere la cipolla, aggiungere la passata di pomodoro e cuocere a fuoco lento per 10 minuti","放入肉丸继续炖煮20分钟 Unire le polpette e lasciarle cuocere nel sugo per circa 20 minuti","最后加入罗勒即可食用 Aggiungere il basilico fresco prima di servire"],
+     "tips":["不要把肉馅搅拌过度，否则肉丸会变硬 Non lavorare troppo l'impasto per evitare polpette dure","煎肉丸时不用完全煎熟，后续会继续在番茄酱中炖煮 Le polpette non devono essere completamente cotte durante la rosolatura","使用现磨帕玛森奶酪风味更佳 Il Parmigiano Reggiano grattugiato fresco offre un sapore migliore","肉丸大小保持一致，可以保证受热均匀 Mantenere le polpette della stessa dimensione per una cottura uniforme"],
+     "favourite":false
+    },
+    {"id":5,
+     "category":"italian",
+     
+     "name_cn":"热那亚佛卡夏",
+     "name_it":"Focaccia alla Genovese",
+     
+
+     "image":"images/Focaccia-alla-Genovese.jpeg",
+     
+     "ingredients":["高筋面粉 Farina Manitoba","水 Acqua","橄榄油 Olio extravergine d'oliva","新鲜酵母 Lievito di birra fresco","盐 Sale","麦芽糖 Malto (可选Non è necessario)"],
+     "steps":["将面粉、水和酵母混合揉成面团 Mescolare farina, acqua e lievito fino a ottenere un impasto","加入盐和橄榄油继续揉至光滑 Aggiungere sale e olio e impastare fino a ottenere un impasto liscio","发酵至两倍大 Lasciare lievitare fino al raddoppio del volume","放入烤盘并用手指按出凹槽 Stendere nella teglia e creare le tipiche fossette con le dita","表面淋橄榄油和盐水 Condire con emulsione di acqua, olio e sale","200℃烘烤约20分钟 Cuocere a 200°C per circa 20 minuti"],
+     "tips":["凹槽不要按穿面团 Non forare completamente l'impasto","表面的盐水是热那亚佛卡夏的特色 L'emulsione di acqua e olio è fondamentale","刚出炉时口感最佳 Gustare appena sfornata"],
+     "favourite":false
+    },
+    {"id":6,
+     "category":"chinese",
+     
+     "name_cn":"蒸饺",
+     "name_it":"Ravioli cinesi al vapore",
+     
+
+     "image":"images/zheng-jiao.jpeg",
+     "ingredients":["饺子皮 Sfoglie per ravioli cinesi","猪肉末 Macinato di maiale","白菜 Cavolo cinese","生姜 Zenzero","小葱 Cipollotto","生抽 Salsa di soia","香油 Olio di sesamo","盐 Sale","白胡椒 Pepe bianco"],
+     "steps":["白菜切碎后挤干水分 Tritare il cavolo e strizzarlo bene","将所有馅料混合均匀 Mescolare tutti gli ingredienti del ripieno","包入饺子皮中 Chiudere il ripieno nelle sfoglie","放入蒸锅蒸约12分钟 Cuocere al vapore per circa 12 minuti","搭配蘸料食用 Servire con salsa di accompagnamento"],
+     "tips":["白菜要充分挤干水分 Il cavolo deve essere ben asciutto","蒸锅提前烧开水 Portare l'acqua a ebollizione prima di cuocere","饺子之间留出空隙 Lasciare spazio tra un raviolo e l'altro"]
+    },
+    {"id":7,
+     "category":"italian",
+     
+     "name_cn":"牛油果酱",
+     "name_it":"Guacamole",
+     
+
+     "image":"images/Guacamole.jpeg",
+     "ingredients":["牛油果 Avocado","番茄 Pomodoro","洋葱 Cipolla","香菜 Coriandolo","青柠 Lime","盐 Sale","黑胡椒 Pepe nero"],
+     "steps":["牛油果去皮去核压成泥 Schiacciare gli avocado maturi","加入切碎的番茄和洋葱 Aggiungere pomodoro e cipolla tritati","加入香菜碎 Mescolare con coriandolo tritato","挤入青柠汁 Spremere il succo di lime","加入盐和黑胡椒调味 Regolare di sale e pepe","搅拌均匀即可 Servire dopo aver amalgamato bene"],
+     "tips":["牛油果要成熟 Avocado ben maturi danno il miglior risultato","现做现吃避免氧化 Consumare subito per evitare l'ossidazione","可保留少量颗粒增加口感 Lasciare qualche pezzetto per una consistenza migliore"]
     }
+,
+    {"id":8,
+     "category":"chinese",
+     
+     "name_cn":"春卷",
+     "name_it":"Involtini primavera",
+     
+
+     "image":"images/chun-juan.jpeg",
+     "ingredients":["春卷皮 Sfoglie per involtini primavera","卷心菜 Cavolo","胡萝卜 Carota","粉丝 Vermicelli di soia","猪肉丝 Maiale a listarelle","生抽 Salsa di soia","盐 Sale","食用油 Olio di semi"],
+     "steps":["所有蔬菜切丝 Tagliare tutte le verdure a julienne","炒熟馅料 Cuocere il ripieno in padella","放凉后包入春卷皮 Lasciare raffreddare e avvolgere nelle sfoglie","卷紧封口 Sigillare bene gli involtini","油炸至金黄色 Friggere fino a doratura","沥干油后食用 Scolare e servire"],
+     "tips":["馅料不能太湿 Il ripieno non deve essere acquoso","封口要压紧 Sigillare bene i bordi","油温保持170-180℃ Mantenere l'olio a 170-180°C"]
+    }
+,
+    {"id":9,
+     "category":"italian",
+     
+     "name_cn":"安达卢西亚冷汤",
+     "name_it":"Gazpacho Andaluso",
+     
+
+     "image":"images/Gazpacho-Andaluso.jpeg",
+     "ingredients":["番茄 Pomodoro","黄瓜 Cetriolo","青椒 Peperone verde","洋葱 Cipolla","大蒜 Aglio","橄榄油 Olio extravergine d'oliva","白葡萄酒醋 Aceto di vino bianco","盐 Sale"],
+     "steps":["所有蔬菜切块 Tagliare tutte le verdure a pezzi","放入料理机打碎 Frullare tutti gli ingredienti","加入橄榄油和醋 Aggiungere olio e aceto","根据口味加入盐 Regolare di sale","放入冰箱冷藏至少2小时 Raffreddare in frigorifero per almeno 2 ore","冷藏后即可食用 Servire ben freddo"],
+     "tips":["番茄越成熟味道越好 Usare pomodori ben maturi","一定要冰镇后食用 Servire molto freddo","可搭配面包丁 Guarnire con crostini se desiderato"]
+    },
+    {"id":10,
+     "category":"chinese",
+     
+     "name_cn":"西葫芦鸡蛋饼",
+     "name_it":"Frittata di Zucchine",
+     
+
+     "image":"images/xi-hu-lu-ji-dan-bing.jpeg",
+     "ingredients":["鸡蛋 Uova","西葫芦 Zucchine","帕玛森奶酪 Parmigiano Reggiano","盐 Sale","黑胡椒 Pepe nero","橄榄油 Olio extravergine d'oliva"],
+     "steps":["西葫芦切薄片 Affettare le zucchine","平底锅炒软西葫芦 Rosolare leggermente le zucchine","鸡蛋加入奶酪和调味料打散 Sbattere le uova con Parmigiano, sale e pepe","倒入锅中与西葫芦一起煎 Versare il composto sulle zucchine","两面煎至金黄 Cuocere da entrambi i lati fino a doratura","切块即可食用 Tagliare e servire"],
+     "tips":["西葫芦不要炒得太湿 Non lasciare troppa acqua nelle zucchine","小火慢煎效果最好 Cuocere a fuoco basso","也可放入烤箱完成最后几分钟 Si può terminare la cottura anche in forno"]
+    }
+,
+    {"id":11,
+     "category":"italian",
+     
+     "name_cn":"罗马涅薄饼",
+     "name_it":"Piadina Romagnola",
+     
+
+     "image":"images/Piadina-Romagnola.jpeg",
+     "ingredients":["面粉 Farina","猪油 Strutto","水 Acqua","盐 Sale","泡打粉 Lievito istantaneo"],
+     "steps":["将所有材料揉成面团 Impastare tutti gli ingredienti","静置30分钟 Lasciare riposare per 30 minuti","分成小面团 Divide l'impasto in porzioni","擀成圆形薄饼 Stendere in dischi sottili","平底锅两面烙熟 Cuocere su piastra calda da entrambi i lati","夹入喜欢的馅料即可 Servire con il ripieno preferito"],
+     "tips":["传统配方使用猪油 La ricetta tradizionale prevede lo strutto","锅不用放油 Non è necessario aggiungere olio","现做现吃口感最好 È migliore appena cotta"]
+    }
+,
+    {"id":12,
+     "category":"chinese",
+     
+     "name_cn":"油炸南瓜花",
+     "name_it":"Fiori di Zucca in Pastella",
+     
+
+     "image":"images/you-zha-nan-gua-hua.jpeg",
+     "ingredients":["南瓜花 Fiori di zucca","面粉 Farina","冰水 Acqua ghiacciata","盐 Sale","橄榄油 Olio extravergine d'oliva","食用油 Olio di semi"],
+     "steps":["清洗南瓜花并去除花蕊 Pulire delicatamente i fiori di zucca eliminando il pistillo","将面粉和冰水调成面糊 Preparare una pastella con farina e acqua ghiacciata","南瓜花裹上面糊 Immergere i fiori nella pastella","放入热油中炸至金黄 Friggere fino a doratura","捞出沥油后撒少量盐 Scolare e aggiungere un pizzico di sale","趁热食用 Servire subito"],
+     "tips":["冰面糊可以炸得更酥 La pastella fredda rende la frittura più croccante","不要炸太久避免失去鲜嫩 Non friggere troppo a lungo","建议现炸现吃 Gustare appena fritti"]
+    }
+
+
 
     
 ]

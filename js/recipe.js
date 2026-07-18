@@ -39,7 +39,7 @@ console.log(stepsHTML);
 console.log(tipsHTML);
 
 recipeDetail.innerHTML = `
-<h1>${recipes[i].name_cn}</h1>
+<div><h1>${recipes[i].name_cn}</h1>
 <p>${recipes[i].name_it}</p>
 <img src="${recipes[i].image}">
 <h2>Ingredients</h2>
@@ -48,6 +48,7 @@ recipeDetail.innerHTML = `
 <ul>${stepsHTML}</ul>
 <h2>Tips</h2>
 <ul>${tipsHTML}</ul>
+</div>
 `;
              }
     }
